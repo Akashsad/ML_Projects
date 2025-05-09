@@ -28,9 +28,3 @@ This project explores the famous **Titanic Dataset**, applying data preprocessin
 
 5. **Conclusion & Insights**  
    - Summary of findings and model effectiveness  
-
-## 🚀 Future Enhancements  
-- Hyperparameter tuning with GridSearchCV  
-- Deploying the model using Flask or Streamlit for real-world applications  
-
-Feel free to tweak this based on any additional work you do! Would you like help formatting it for GitHub Markdown? 😊
