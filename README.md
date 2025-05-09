@@ -1,3 +1,3 @@
 # ML_Projects
-## MinMaxScaler
+## Titanic Dataset
 To showcase my Machine Learning hands on Projects
