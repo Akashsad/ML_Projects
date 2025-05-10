@@ -1,4 +1,4 @@
-# ML_Projects
+# ML & DL_Projects
 ## Titanic Dataset
 To showcase my Machine Learning hands on Projects
 Here's a well-structured project description for your GitHub README:
